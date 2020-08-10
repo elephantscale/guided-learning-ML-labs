@@ -1,0 +1,22 @@
+## generic
+.DS_Store
+*.out
+metastore_db/
+*.zip
+*.html
+not-using/
+data
+
+
+## Python
+__pycache__/
+*.py[cod]
+*$py.class
+## Jupyter Notebook
+.ipynb_checkpoints
+
+## assembled
+0-testing
+basics
+exploration
+python-analysis
