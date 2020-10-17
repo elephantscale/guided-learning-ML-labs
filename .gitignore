@@ -6,6 +6,8 @@ metastore_db/
 *.html
 not-using/
 data
+*.csv
+*.txt
 
 
 ## Python
